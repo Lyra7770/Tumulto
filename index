@@ -2,21 +2,17 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Luz Melancólica</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Burbujas Melancólicas</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
   <script src="sketch.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     html, body {
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #0D0D0D; /* Fondo base */
-      height: 100%;
-      width: 100%;
-      touch-action: none;
+      background-color: #0D0D0D;
     }
-
     canvas {
       display: block;
     }
